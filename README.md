@@ -1,7 +1,5 @@
-# Sales-Data-Analysis-Python-Pandas-Matplotlib-
-
-
 # Sales Performance Analysis – Power BI & Python
+
 ## Project Overview
 This project analyzes company sales data to uncover insights related to
 regional performance, product categories, customer behavior, and sales trends.
