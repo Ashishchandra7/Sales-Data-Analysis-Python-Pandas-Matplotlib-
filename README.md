@@ -1,60 +1,25 @@
 # Sales-Data-Analysis-Python-Pandas-Matplotlib-
-This project contains a complete Sales Data Analysis workflow using Python. The notebook walks through data cleaning, exploration, visualization, and insights extraction to understand sales trends and performance.
 
-In this notebook, you will find:
 
-1️⃣ Data Cleaning
+# Sales Performance Analysis – Power BI & Python
+## Project Overview
+This project analyzes company sales data to uncover insights related to
+regional performance, product categories, customer behavior, and sales trends.
 
-Handling missing values
+## Tools Used
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- DAX
 
-Removing duplicates
+## Key Features
+- Data cleaning and feature engineering in Python
+- KPI metrics: Total Sales, Profit, Quantity Sold, AOV
+- Interactive Power BI dashboard with slicers
+- Monthly trend and regional performance analysis
+- Advanced DAX calculations (YoY growth, running totals)
 
-Converting datatypes
-
-Renaming columns
-
-Creating new calculated fields (Profit, Month, Year, Region, etc.)
-
-2️⃣ Exploratory Data Analysis (EDA)
-
-Summary statistics
-
-Monthly sales trend
-
-Region-wise sales comparison
-
-Product performance analysis
-
-Identifying top-selling and least-selling items
-
-3️⃣ Visualizations (Matplotlib)
-
-Line chart: Monthly sales trend
-
-Bar chart: Region-wise sales
-
-Histogram: Distribution of sales amount
-
-Scatter plot: Quantity vs. Sales
-
-Pie chart: Contribution by product category
-
-4️⃣ Insights Generated
-
-Best performing months
-
-Highest revenue regions
-
-Most profitable products
-
-Sales patterns useful for forecasting and decision-making
-
-🛠 Technologies Used
-
-Python
-
-Pandas
-
-Matplotlib
-
-Jupyter Notebook
+## Business Insights
+- North region is the top contributor to sales and profit
+- Clothing is the highest performing product category
+- Retail slightly outperforms Online, but Online shows strong growth
+- Clear seasonality observed in monthly sales trend
